@@ -246,7 +246,7 @@ item (FEAT_HOUSES, item_city_hall, 67, HOUSE_SIZE_2X2) {
 		name:						string(STR_CITYHALL);
 		population:					60;
 		mail_multiplier:			80;
-		accepted_cargos:			[[PASS, 8], [MAIL, 6], [GOOD, 4]];
+		accepted_cargos:			[[PASS, 8], [MAIL, 6], [GOOD, 4], [FOOD, 3]];
 		local_authority_impact:		255;
 		probability:				7;
 		years_available:			[1700, 9999];

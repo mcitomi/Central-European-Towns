@@ -73,6 +73,7 @@ cargotable {
 	PASS, // PASSENGERS
 	MAIL, // Mail
 	GOOD, // Goods
+	FOOD, // Food
 }
 
 

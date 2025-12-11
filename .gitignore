@@ -12,3 +12,9 @@ env
 
 # Ignore the pycache folder
 __pycache__
+
+.pytest_cache
+.mypy_cache
+.nml_cache
+cet.grf
+src/.nmlcache

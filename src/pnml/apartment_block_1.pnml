@@ -327,7 +327,7 @@ item (FEAT_HOUSES, item_apartment_block_1, 77, HOUSE_SIZE_1X1) {
 		name:						string(STR_APARTBLOCK);
 		population:					100;
 		mail_multiplier:			40;
-		accepted_cargos:			[[PASS, 6], [MAIL, 2], [GOOD, 1]];
+		accepted_cargos:			[[PASS, 6], [MAIL, 2], [GOOD, 1], [FOOD, 2]];
 		local_authority_impact:		110;
 		probability:				7;
 		years_available:			[1850, 1919];

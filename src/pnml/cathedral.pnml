@@ -160,7 +160,7 @@ item (FEAT_HOUSES, item_cathedral, 63, HOUSE_SIZE_2X2) {
 		name:						string(STR_CATHEDRAL);
 		population:					40;
 		mail_multiplier:			40;
-		accepted_cargos:			[[PASS, 8], [MAIL, 4], [GOOD, 1]];
+		accepted_cargos:			[[PASS, 8], [MAIL, 4], [GOOD, 1], [FOOD, 2]];
 		local_authority_impact:		250;
 		probability:				7;
 		years_available:			[1700, 9999];

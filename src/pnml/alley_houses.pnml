@@ -128,7 +128,7 @@ item (FEAT_HOUSES, item_alley_houses, 27, HOUSE_SIZE_1X1) {
 		name:						string(STR_ALLEYHOUSES);
 		population:					60;
 		mail_multiplier:			25;
-		accepted_cargos:			[[PASS, 6], [MAIL, 3], [GOOD, 3]];
+		accepted_cargos:			[[PASS, 6], [MAIL, 3], [GOOD, 3], [FOOD, 4]];
 		local_authority_impact:		130;
 		probability:				7;
 		years_available:			[1700, 1919];
